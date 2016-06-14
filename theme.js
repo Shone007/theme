@@ -1,2 +1,2 @@
 var woot = document.getElementById("woot"),
-woot.style.backgroundColor = "#2f4fad" ;
+document.woot.style.backgroundColor = "#2f4fad";
