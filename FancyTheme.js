@@ -27,13 +27,13 @@ function addGlobalStyle(css){
 //second step is to go to the top and make a new // @include123456789<link here> 10 spaces after the //. have fun.
 
 if (location.pathname.match('st-army-elite')) {
-addGlobalStyle('html{background: url("https://i.imgur.com/DKAqiOt.jpg");background-size: cover;background-repeat: no-repeat;min-height:100%; max-width:100%;');
+addGlobalStyle('html{background: url("https://i.imgur.com/DKAqiOt.jpg");background-size: cover;background-repeat: no-repeat;min-height:100%; height:100%; width:100%; ');
 
 } else { //this background's used for all other rooms not listed elsewhere
 addGlobalStyle('html{background: url("http://fc08.deviantart.net/fs70/f/2012/149/4/9/plug_dj_skin_2_by_liamgoodyear-d51j3xs.jpg");');
 }
 
-addGlobalStyle('#logo, #logo {background-image: url("http://i.imgur.com/NJaZw.png");min-height:33px;min-width:131px;}'); //change the logo
+addGlobalStyle('.icon-room, .icon-room {background: url("http://i.imgur.com/NJaZw.png");min-height:33px;min-width:131px;}'); //change the logo
 
 addGlobalStyle('#create-room-button, #create-room-button {background-image: url("http://i.imgur.com/oW6ir.png");min-height:33px;min-width:131px;}'); //change create room button
 
