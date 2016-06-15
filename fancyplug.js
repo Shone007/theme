@@ -27,7 +27,7 @@ function addGlobalStyle(css){
 //second step is to go to the top and make a new // @include123456789<link here> 10 spaces after the //. have fun.
 
 if (location.pathname.match('st-army-elite')) {
-addGlobalStyle('html{background: url("http://fc09.deviantart.net/fs71/f/2012/046/3/6/i_think_you_would_have_fit_in_just_fine__by_johnnoz-d4pspxp.png");background-size: cover;background-repeat: no-repeat;min-height:100%;');
+addGlobalStyle('html{background: url("https://fc09.deviantart.net/fs71/f/2012/046/3/6/i_think_you_would_have_fit_in_just_fine__by_johnnoz-d4pspxp.png");background-size: cover;background-repeat: no-repeat;min-height:100%;');
 
 //========================================================================================
 
