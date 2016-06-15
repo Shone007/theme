@@ -36,9 +36,9 @@ addGlobalStyle('html{background: url("http://fc08.deviantart.net/fs70/f/2012/149
 
 addGlobalStyle('.icon-room, .icon-room {background: url("http://i.imgur.com/NJaZw.png");height:30px;width:30px;}'); //change the logo
 
-addGlobalStyle('#meh, #meh.selected {background:#DB3340;}');
-addGlobalStyle('#woot, #woot.selected {background:#26A4D9;}');
-addGlobalStyle('#grab, #grab.selected {background:#1FDA9A;}');
+addGlobalStyle('#meh .bottom, #meh.selected {background:#DB3340;}');
+addGlobalStyle('#woot .bottom, #woot.selected {background:#26A4D9;}');
+addGlobalStyle('#grab .bottom, #grab.selected {background:#1FDA9A;}');
 
 addGlobalStyle('#create-room-button, #create-room-button {background-image: url("http://i.imgur.com/oW6ir.png");min-height:33px;min-width:131px;}'); //change create room button
 
