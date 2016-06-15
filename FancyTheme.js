@@ -36,6 +36,10 @@ addGlobalStyle('html{background: url("http://fc08.deviantart.net/fs70/f/2012/149
 
 addGlobalStyle('.icon-room, .icon-room {background: url("http://i.imgur.com/NJaZw.png");height:30px;width:30px;}'); //change the logo
 
+addGlobalStyle('#meh, #meh {background-color:#DB3340;}');
+addGlobalStyle('#woot, #woot {background-color:#26A4D9;}');
+addGlobalStyle('#grab, #grab {background-color:#1FDA9A;}');
+
 addGlobalStyle('#create-room-button, #create-room-button {background-image: url("http://i.imgur.com/oW6ir.png");min-height:33px;min-width:131px;}'); //change create room button
 
 addGlobalStyle('#room-wheel, #room-wheel {background-image: max-height:0px;max-width:0px;}'); //hide the upper bg image (clashes with main bg)
