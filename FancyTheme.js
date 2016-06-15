@@ -27,44 +27,7 @@ function addGlobalStyle(css){
 //second step is to go to the top and make a new // @include123456789<link here> 10 spaces after the //. have fun.
 
 if (location.pathname.match('st-army-elite')) {
-addGlobalStyle('html{background: url("https://i.imgur.com/DKAqiOt.jpg");background-size: cover;background-repeat: no-repeat;min-height:100%;');
-
-//========================================================================================
-
-} else if (location.pathname.match('drum-bass')) {
-addGlobalStyle('html{background: url("http://art.ngfiles.com/images/148/r0bot_drum-and-bass.jpg");');
-
-//========================================================================================
-
-} else if (location.pathname.match('friendshipismagic')) {
-addGlobalStyle('html{background: url("http://fc09.deviantart.net/fs71/f/2012/046/3/6/i_think_you_would_have_fit_in_just_fine__by_johnnoz-d4pspxp.png");background-size: cover;background-repeat: no-repeat;min-height:100%;');
-
-//=======================================================================================
-
-} else if (location.pathname.match('friendshipismagic/#')) {
-addGlobalStyle('html{background: url("http://fc09.deviantart.net/fs71/f/2012/046/3/6/i_think_you_would_have_fit_in_just_fine__by_johnnoz-d4pspxp.png");background-size: cover;background-repeat: no-repeat;min-height:100%;');
-
-//=======================================================================================
-
-} else if (location.pathname.match('video-game')) {
-addGlobalStyle('html{background: url("http://img221.imageshack.us/img221/3297/wallpaper575034.jpg");');
-
-//=======================================================================================
-
-} else if (location.pathname.match('bass-music-garage-dubstep-etc')) {
-addGlobalStyle('html{background: url("http://fc05.deviantart.net/fs71/f/2010/246/8/d/drum_and_bass_by_zkappa-d2xyqlr.png");');
-
-//=======================================================================================
-
-} else if (location.pathname.match('tugapie-dddd')) {
-addGlobalStyle('html{background: url("http://static.zerochan.net/full/31/49/1034981.jpg");');
-
-//=======================================================================================
-
-} else if (location.pathname.match('partoftheroomname')) { //edit in a part of the room's name here
-addGlobalStyle('html{background: url("http://fc08.deviantart.net/fs70/f/2012/149/4/9/plug_dj_skin_2_by_liamgoodyear-d51j3xs.jpg");background-size: cover;background-repeat: no-repeat;min-height:100%;');
-
-//=====do not change this last one=======================================================
+addGlobalStyle('html{background: url("https://i.imgur.com/DKAqiOt.jpg");background-size: cover;background-repeat: no-repeat;min-height:100%; max-width:100%;');
 
 } else { //this background's used for all other rooms not listed elsewhere
 addGlobalStyle('html{background: url("http://fc08.deviantart.net/fs70/f/2012/149/4/9/plug_dj_skin_2_by_liamgoodyear-d51j3xs.jpg");');
