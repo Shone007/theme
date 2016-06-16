@@ -36,7 +36,7 @@ addGlobalStyle('html{background: url("http://fc08.deviantart.net/fs70/f/2012/149
 
 addGlobalStyle('#vote, #vote {background-color: rgba(0, 0, 0, 0.6);}');
 
-addGlobalStyle('.icon-room, .icon-room {background: url("http://i.imgur.com/NJaZw.png");height:30px;width:30px;}'); //change the logo
+addGlobalStyle('.icon-room, .icon-room {background: url("http://i.imgur.com/NJaZw.png");height:30px;width:30px;}'); //promjena logo-a
 addGlobalStyle('.icon-grab, .icon-grab {background: url("http://i.imgur.com/U0KmP8r.png");height:30px;width:30px;}');
 addGlobalStyle('.icon-woot, .icon-woot {background: url("http://i.imgur.com/4vSEib2.png");height:30px;width:30px;}');
 addGlobalStyle('.icon-meh, .icon-meh {background: url("http://i.imgur.com/xJdXvcm.png");height:30px;width:30px;}');
