@@ -35,11 +35,7 @@ addGlobalStyle('html{background: url("http://fc08.deviantart.net/fs70/f/2012/149
 }
 
 addGlobalStyle('#vote, #vote {
- background-color: rgba(0, 0, 0, 0.6);
-    /* For IE 5.5 - 7*/
-    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#99000000, endColorstr=#99000000);
-    /* For IE 8*/
-    -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#99000000, endColorstr=#99000000)";}');
+ background-color: rgba(0, 0, 0, 0.6);}');
 
 addGlobalStyle('.icon-room, .icon-room {background: url("http://i.imgur.com/NJaZw.png");height:30px;width:30px;}'); //change the logo
 addGlobalStyle('.icon-grab, .icon-grab {background: url("http://i.imgur.com/U0KmP8r.png");height:30px;width:30px;}');
