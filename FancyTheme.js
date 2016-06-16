@@ -35,7 +35,9 @@ addGlobalStyle('html{background: url("http://fc08.deviantart.net/fs70/f/2012/149
 }
 
 addGlobalStyle('.icon-room, .icon-room {background: url("http://i.imgur.com/NJaZw.png");height:30px;width:30px;}'); //change the logo
-addGlobalStyle('.icon icon-grab, .icon icon-meh {background: url("http://i.imgur.com/coGntr6.png");height:30px;width:30px;}');
+addGlobalStyle('.icon-grab, .icon-grab {background: url("http://i.imgur.com/U0KmP8r.png");height:30px;width:30px;}');
+addGlobalStyle('.icon-woot, .icon-woot {background: url("http://i.imgur.com/4vSEib2.png");height:30px;width:30px;}');
+addGlobalStyle('.icon-meh, .icon-meh {background: url("http://i.imgur.com/xJdXvcm.png");height:30px;width:30px;}');
 
 addGlobalStyle('#meh .bottom, #meh.selected {background:#DB3340;}');
 addGlobalStyle('#woot .bottom, #woot.selected {background:#26A4D9;}');
