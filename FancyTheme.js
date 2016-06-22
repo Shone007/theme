@@ -62,9 +62,7 @@ addGlobalStyle('#button-dj-quit.button-dj, #button-dj-quit.button-dj {background
 //if you want to change the font, uncomment this part and edit with the font you want, google "font css" or something like that for the codes.
 //addGlobalStyle("* {" + "font-family:Cambria,'Times New Roman','Nimbus Roman No9 L','Freeserif',Times,serif; !important;" + "}"); //for font changing
 
-//to change the DJ console, uncomment this and add your own custom URL. I've got no good ideas atm, but feel free to try stuff out :)
-//addGlobalStyle('#dj-console, #dj-console {background-image: url("http://i.imgur.com/oW6ir.png");min-height:33px;min-width:131px;}'); //change create room button
-
+addGlobalStyle('#playlist-button, #playlist-button {background: linear-gradient(to bottom,#00b1e4 0,#07617d 100%);}');
 //join waitlist button, haven't made an image yet
 //addGlobalStyle('#button-dj-waitlist-join.button-dj, #button-dj-waitlist-join.button-dj {background-image: url("http://i.imgur.com/25rO8.png")!important;}');
 
