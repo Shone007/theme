@@ -43,7 +43,7 @@ addGlobalStyle('.icon-meh, .icon-meh {background: url("http://i.imgur.com/xJdXvc
 
 addGlobalStyle('#meh .bottom, #meh.selected {background:#DB3340;}');
 addGlobalStyle('#woot .bottom, #woot.selected {background:#26A4D9;}');
-addGlobalStyle('#grab .bottom, #grab.selected {background:#1fda9a;}')
+addGlobalStyle('#grab .bottom, #grab.selected {background:#1fda9a;}');
 
 addGlobalStyle('#create-room-button, #create-room-button {background-image: url("http://i.imgur.com/oW6ir.png");min-height:33px;min-width:131px;}'); //change create room button
 
